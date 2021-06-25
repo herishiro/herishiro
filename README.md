@@ -30,7 +30,7 @@ webエンジニアとして転職活動中！
 - なので海外の情報を調べたりフォーラムで質問する程度は可能です。
 - 他の英語能力も絶賛勉強中…φ(.. )
 
-# PortFolio
+# Portfolio
 
 ### Happniness Diary - 3 Good Things!
 毎晩3つ今日良かったことを記録する「Three Good things」というポジティブ心理学で提唱される健康法を実践するためのアプリ。<br/>
