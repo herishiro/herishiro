@@ -35,7 +35,7 @@ webエンジニアとして転職活動中！
 ### Happniness Diary - 3 Good Things!
 毎晩3つ今日良かったことを記録する「Three Good things」というポジティブ心理学で提唱される健康法を実践するためのアプリ。<br/>
 URL：　https://www.3-good-things.app/<br/>
-レポジトリ：　
+レポジトリ：　https://github.com/herishiro/3-good-things_pub
 
 ### Slack読書記録アプリ
 Slackでダイアログから今日の読書内容を記録して投稿したり、AWS Lambdaと連携してスプレッドシートに出力できるアプリです。<br/>
