@@ -53,4 +53,5 @@ Slackでダイアログから今日の読書内容を記録して投稿したり
 # おまけ
 
 絵が結構描けます。<br/>
-![drawing](https://github.com/herishiro/3-good-things_prod/assets/39423638/7b6041e0-b22f-4b2a-980e-41c3d15b389e | width=200)
+<img src='https://github.com/herishiro/3-good-things_prod/assets/39423638/7b6041e0-b22f-4b2a-980e-41c3d15b389e' width='200'>
+
